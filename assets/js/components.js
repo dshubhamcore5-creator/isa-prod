@@ -172,9 +172,7 @@
       </div>
     </div>
     <div style="text-align:center;padding:14px 0 8px;font-size:.72rem;color:rgba(255,255,255,.3);border-top:1px solid rgba(255,255,255,.06);margin-top:8px;display:flex;align-items:center;justify-content:center;gap:28px;flex-wrap:wrap;">
-      <span>Palghar, Maharashtra, India</span>
-      <span>Registration Number: ${CONFIG.gstin}</span>
-      <span>Trade Name: Infinite Soul Awakening Wellness</span>
+      <span>Registration Number: ${CONFIG.gstin} | Infinite Soul Awakening Wellness</span>
     </div>
   </div>
 </footer>`;
