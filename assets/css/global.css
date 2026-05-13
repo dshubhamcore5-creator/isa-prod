@@ -139,7 +139,7 @@ body {
   text-decoration: none; flex-shrink: 0;
 }
 .logo-img {
-  height: 52px; width: auto;
+  height: 88px; width: auto;
   object-fit: contain; display: block; flex-shrink: 0;
   transition: opacity .2s, transform .3s;
 }
@@ -161,7 +161,7 @@ body {
 
 /* Footer logo — icon inverted to white, text in accent-light */
 .footer-logo-img {
-  height: 52px; width: auto;
+  height: 88px; width: auto;
   filter: brightness(0) invert(1);
   opacity: .92; flex-shrink: 0;
 }
